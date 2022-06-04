@@ -9,7 +9,11 @@ MrTima01/MrTima01 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
- data-canonical-src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=cc00cc&amp;text= HI I'M MR.TIMA;fontSize=25&amp;fontAlign=23&amp;height=50" style="max-width: 100%;">
+ 
+<p align="center"<a
+<a href="https://github.com/ChamodKeshan/QueenAlexa" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=QueenAlex&theme=chartreuse-dark"></a>
+<a href="https://github.com/ChamodKeshan/Queen-Alexa" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=Queen-Alexa&theme=chartreuse-dark"></a> <a href="https://github.com/chamodkeshan/booster-queena" ><a href="https://github.com/ChamodKeshan/booster-queena" >
+<a href="https://github.com/ChamodKeshan/booster-queena" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=booster-queena&theme=chartreuse-dark"></a>
    
    
    # YOU WATCHING MY ACTIVITIES.🔗THANKS FOR YOU.
