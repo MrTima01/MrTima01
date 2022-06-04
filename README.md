@@ -19,6 +19,14 @@ You can click the Preview link to take a look at your changes.
 			min-height: 100vh;
 			background: #000;
 		}
+		h2{
+			position: relative;
+			font-size: 3.4em;
+			font-weight: 900;
+			color: #fff;
+			z-index: 1;
+			overflow: hidden;
+		}
 	</style>
 <body>
 	<h2>HI I AM MR.TIMA...WELCOME TO MY PROFILE</h2>
